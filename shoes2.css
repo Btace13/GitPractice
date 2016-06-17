@@ -1,0 +1,132 @@
+body {
+
+	background-color: #FF798D !important;
+}
+
+
+#logo {
+
+		font-family: 'Poiret One', cursive;
+		font-size: 7em;
+		color: black;
+		margin-bottom: 2%;
+		font-weight: bolder;
+
+	}
+
+	.navbar{
+
+		border:none !important;
+		border-radius: 10px !important;
+		background-color: #FF798D !important;
+
+
+	}
+
+	.navbar li a {
+			color: black !important;
+			font-size: 12pt;
+			font-family: 'Righteous', cursive;
+
+	}
+	
+	.navbar li a:hover {
+			color: #4DA5CC !important;
+
+	}
+
+	.navbar-inverse .navbar-nav>.active>a{
+		background-color: #FF798D !important; 
+		
+	}
+
+.img-responsive{
+
+		;
+
+}
+
+
+	.jumbotron {
+
+		background-color: #FF798D !important;
+		color: #FFFA93 !important;
+	}
+
+	#trends {
+
+		font-family: 'Poiret One', cursive;
+			margin-top: 2%;
+			text-align: center;
+			font-size: 4em;
+			font-weight: bold;
+			text-decoration: underline;
+			color:#FFFA93;
+	}
+
+	.trendstp {
+		border: 1px solid black;
+		color:#FFFA93;
+		background-color: #4C8DAA;
+	}
+
+	.footer {
+
+		background-color: #28282D !important;
+		color: white;
+		text-align: center;
+		
+	}
+
+	.footer li a {
+		color: white;
+		text-decoration: none;
+	}
+
+	.footer li a:hover {
+		color: #B24353 ;
+		text-decoration: none;
+	}
+
+	.btn {
+		margin: 10%;
+		position: absolute;
+
+
+	}
+
+	.btn-default{
+
+		background-color: #FFFA93 !important;
+		color: #4DA5CC !important;
+
+	}
+
+	img {
+		max-width: 1920px;
+		max-height: 750px;
+	}
+
+	.h3 {
+		font-weight: bold;
+		font-size: 3em !important;
+		padding: 30%;
+		margin: 10%;
+		position: absolute;
+		color: white !important;
+		float: right;
+
+	}
+
+	.label-default {
+
+		background-color: #FFFA93 !important;
+		color: black !important;
+
+	}
+
+	.headingss {
+
+			color: black;
+
+	}
